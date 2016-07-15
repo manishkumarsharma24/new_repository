@@ -1,2 +1,1 @@
-master : initial creation
-branch 1 : first change after branch 1
+master : first change after branch 1
