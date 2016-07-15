@@ -2,3 +2,4 @@ master : initial creation
 master : first change after branch 1
 master : change to be pulled by branch 1
 master : change 1 to be pulled by branch 1
+master : change 2 to be pulled by branch 1
